@@ -41,7 +41,7 @@ SyntaxError: invalid syntax
 SyntaxError: invalid syntax
 
 
-#4 Topic: while_____
+#4 Topic: while_loop____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
