@@ -1,39 +1,64 @@
 Write in one or more topics for each question using the following topics: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class. If you get any error messages, copy and paste up to three of them in the boxes below.
 
-#1 Topic:_____
+#1 Topic:__variables___
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+Traceback (most recent call last):
+  File "testing4.py", line 49, in <module>
+    i
+NameError: name 'i' is not defined
+
+
+
+#2 Topic: Conditionals_____
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:File "testing4.py", line 51
+                   userinput=
+                            ^
+               SyntaxError: invalid syntax
+
+Traceback (most recent call last):
+  File "testing4.py", line 57, in <module>
+    if userInput == str("Kenn","Kevin", "Erin", "Autumn"):
+TypeError: str() takes at most 3 arguments (4 given)
+
+
+
+#3 Topic: __For _Loops__
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+File "testing4.py", line 69
+    for x in range (7,-5-1]
+                          ^
+SyntaxError: invalid syntax
+
+  File "testing4.py", line 68
+    for x in range (7,-4,-1)
+                           ^
+SyntaxError: invalid syntax
+
+
+#4 Topic: while_____
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+  File "testing4.py", line 71, in <module>
+    userinput= int(input("Enter a number between-10 to-5"))
+ValueError: invalid literal for int() with base 10: '-\x1b[A'
+
+
+#5 Topic: _array____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
-
-
-#2 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
-
-#3 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
-
-#4 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
-
-#5 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
+Traceback (most recent call last):
+  File "testing4.py", line 71, in <module>
+    []# while userinput !=(-10 -5):
+ValueError: invalid literal for int() with base 10: '\x1b[A'
 
 #6 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
